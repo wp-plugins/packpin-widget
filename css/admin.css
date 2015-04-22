@@ -1,0 +1,7 @@
+.packpin_widget_admin .wp-picker-container, .packpin_widget_admin .wp-picker-container:active {
+    display: block;
+}
+
+.packpin_widget_admin > .wp-picker-container > a {
+  display: none;
+}
