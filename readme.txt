@@ -21,13 +21,13 @@ Own e-commerce store? Get a Free [Packpin](http://packpin.com/) tracking button 
 
 We support these global and local carriers:
 
-* [China Post](https://packpin.com/china-post-tracking)
-* [USPS](https://packpin.com/usps)
-* [UPS](https://packpin.com/ups)
-* [FEDEX](https://packpin.com/fedex)
-* [DHL](https://packpin.com/dhl)
-* [Royal Mail](https://packpin.com/royal-mail)
-* [TNT](https://packpin.com/tnt)
+* [China Post](https://packpin.com/carriers/postcn/)
+* [USPS](https://packpin.com/carriers/usps/)
+* [UPS](https://packpin.com/carriers/ups/)
+* [FEDEX](https://packpin.com/carriers/fedex/)
+* [DHL](https://packpin.com/carriers/dhl/)
+* [Royal Mail](https://packpin.com/carriers/postuk/)
+* [TNT](https://packpin.com/carriers/tnt/)
 * DHL Global Mail Asia
 * Canada Post
 * Australia post
